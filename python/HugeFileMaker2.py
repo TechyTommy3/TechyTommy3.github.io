@@ -1,4 +1,5 @@
-print("Welcome to HugeFileMaker 2, Tommy! What do you want to do?")
+name = "Tommy"
+print("Welcome to HugeFileMaker 2, " + name + "! What do you want to do?")
 print("N - New File")
 print("A - Make File Bigger")
 option = input("Choose one: ")
