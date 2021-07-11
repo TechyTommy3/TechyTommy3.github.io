@@ -18,14 +18,15 @@
 	<a href="https://techytommy3.blogspot.com" class="quicksand">Blog</a>
 	<br>
 	<a href="/python" class="quicksand">Python Programs</a>
+	<p>Python in JavaScript (coming soon)</p>
 	<p>More is coming soon!</p>
-	<button id="speakbutton">Speak</button>
+	<button id="myBtn">Speak</button>
 	<script>
 		function speak() {
 			var msg = new SpeechSynthesisUtterance("Hi! Welcome to TechyTommy! Click on the links to see what's on here.");
 			window.speechSynthesis.speak(msg);
 		}
-		document.getElementById("speakbutton").addEventListener("click", speak);
+		document.getElementById("myBtn").addEventListener("click", speak);
 	</script>
     </body>
 </html>
