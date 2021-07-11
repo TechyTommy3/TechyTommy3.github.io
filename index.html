@@ -19,13 +19,13 @@
 	<br>
 	<a href="/python" class="quicksand">Python Programs</a>
 	<p>More is coming soon!</p>
-	<button id="myBtn">Speak</button>
+	<button id="speakbutton">Speak</button>
 	<script>
 		function speak() {
 			var msg = new SpeechSynthesisUtterance("Hi! Welcome to TechyTommy! Click on the links to see what's on here.");
 			window.speechSynthesis.speak(msg);
 		}
-		document.getElementById("myBtn").addEventListener("click", speak);
+		document.getElementById("speakbutton").addEventListener("click", speak);
 	</script>
     </body>
 </html>
