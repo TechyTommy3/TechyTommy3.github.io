@@ -6,3 +6,4 @@ Twine-compatible web browser (the best way to find out is to run the game)
 Photo-compatible web browser
 ## Reccomended Requirments
 Audio and video compatible browser
+If you want the full experince, no pop-up blocker
