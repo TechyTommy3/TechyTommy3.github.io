@@ -1,0 +1,2 @@
+# Computer-Free Day
+It's September 7, 2631. Known as Computer-Free Day, almost everybody does not use their computer on this day. And the people that do all the things they can to stop people from using computers. Yes, that includes spreading viruses, malware, and worms. But Laptoper needs to use his Chromebook, so he takes the risk of turning it on. In the game, you explore your computer, talk to people, explore the world and see how the world got infected by your own computer, and even make viruses!
