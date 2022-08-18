@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>TechyTommy Podcast</title>
+    <itunes:owner>
+        <itunes:email>techytommy-podcasts@googlegroups.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>TechyTommy</itunes:author>
+    <description>The great companion podcast to TechyTommy! Talking about technology!</description>
+    <itunes:image href="https://techytommy3.github.io/podcasts/TechyTommy.png"/>
+    <language>en-us</language>
+    <link>https://techytommy3.blogspot.com</link>
+    <item>
+      <title>Tommy's Guide to Podcasts!</title>
+      <description>My first podcast! In this podcast, I take a look at podcasts! Looking at podcast apps and publishing podcasts!</description>
+      <pubDate>Thu, 18 Aug 2022 14:15:00 CST</pubDate>
+      <enclosure url="https://techytommy3.github.io/"
+                 type="audio/mpeg" length="17600117"/>
+      <itunes:duration>18:00</itunes:duration>
+      <guid>firstpodcast</guid>
+    </item>
+  </channel>
+</rss>
