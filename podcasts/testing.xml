@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>🤑</title>
+    <itunes:owner>
+        <itunes:email>Loading...</itunes:email>
+    </itunes:owner>
+    <itunes:author>🥳</itunes:author>
+    <description>🙃</description>
+    <itunes:image href="https://i.postimg.cc/fRJ1S6RN/unnamed.png"/>
+    <language>en-us</language>
+    <link>https://techytommy3.blogspot.com</link>
+    <item>
+      <title>😋</title>
+      <description>🤑</description>
+      <pubDate>Thu, 18 Aug 2800 14:15:00 CST</pubDate>
+      <enclosure url="https://techytommy3.github.io/podcasts/Tommy%E2%80%99s%20Guide%20to%20Podcasts.mp3"
+                 type="audio/mpeg" length="176001170"/>
+      <itunes:duration>12:34+cats</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>cdcimfod</guid>
+    </item>
+  </channel>
+</rss>
