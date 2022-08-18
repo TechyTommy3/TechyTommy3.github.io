@@ -14,8 +14,8 @@
     <item>
       <title>Tommy's Guide to Podcasts!</title>
       <description>My first podcast! In this podcast, I take a look at podcasts! Looking at podcast apps and publishing podcasts!</description>
-      <pubDate>Thu, 18 Aug 2022 14:15:00 CDT</pubDate>
-      <enclosure url="https://techytommy3.github.io/podcasts/Tommy's Guide to Podcasts.mp3"
+      <pubDate>Thu, 18 Aug 2022 14:15:00 CST</pubDate>
+      <enclosure url="https://techytommy3.github.io/podcasts/Tommy%E2%80%99s%20Guide%20to%20Podcasts.mp3"
                  type="audio/mpeg" length="17600117"/>
       <itunes:duration>18:00</itunes:duration>
       <guid>firstpodcast</guid>
