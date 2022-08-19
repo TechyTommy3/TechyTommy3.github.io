@@ -20,5 +20,14 @@
       <itunes:duration>18:00</itunes:duration>
       <guid>firstpodcast</guid>
     </item>
+    <item>
+      <title>Update Your iPhones and iPads Right Now!</title>
+      <description>Huge security vulnerability in iOS and iPadOS! Update now!</description>
+      <pubDate>Thu, 19 Aug 2022 7:51:00 CST</pubDate>
+      <enclosure url="https://techytommy3.github.io/podcasts/Update%20Your%20iPhones%20and%20iPads%20Right%20Now!.mp3"
+                 type="audio/mpeg" length="2009202"/>
+      <itunes:duration>1:57</itunes:duration>
+      <guid>securityupdate</guid>
+    </item>
   </channel>
 </rss>
