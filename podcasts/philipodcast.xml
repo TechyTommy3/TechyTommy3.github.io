@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Copykid</title>
+    <itunes:owner>
+        <itunes:email>techytommy-podcasts@googlegroups.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Dico and Philip</itunes:author>
+    <description>A copy of a video.</description>
+    <itunes:image href="https://techytommy3.github.io/podcasts/drawing.png"/>
+    <language>en-us</language>
+    <item>
+      <title>The Copy of Video</title>
+      <description>9 copies of the shows!</description>
+      <pubDate>Sun, 2 Feb 2023 9:17:00 CST</pubDate>
+      <enclosure url="https://techytommy3.github.io/podcasts/Philip%20Podcast.m4a"
+                 type="audio/mpeg" length="1728285"/>
+      <itunes:duration>1:00</itunes:duration>
+      <guid>firstpodcast</guid>
+    </item>
+  </channel>
+</rss>
