@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1, tvg-ID="TWNETWORK" tvg-tags="weather,tommy weather",Tommy Weather
+http://tommyweather.loseyourip.com/TWLive
