@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Copykid 2 on a Log</title>
+    <itunes:owner>
+        <itunes:email>techytommy-podcasts@googlegroups.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Tommy and Philip</itunes:author>
+    <description>Public and super fun podcast!</description>
+    <itunes:image href="https://techytommy3.github.io/podcasts/IMG_2188.PNG"/>
+    <language>en-us</language>
+    <item>
+      <title>The Copykid Sits on a Log</title>
+      <description>A really fun episode and everyone may like this podcast!</description>
+      <pubDate>Sun, 2 Feb 2023 9:17:00 CST</pubDate>
+      <enclosure url="https://techytommy3.github.io/podcasts/Philip%20Podcast.m4a"
+                 type="audio/mpeg" length="6094217"/>
+      <itunes:duration>2:32</itunes:duration>
+      <guid>secondpodcast</guid>
+    </item>
+  </channel>
+</rss>
